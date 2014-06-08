@@ -40,9 +40,6 @@ If the project requires some background content, students may first need to prop
 a seminar. Students may work in small groups on projects, though most projects 
 will be individual. 
 
-* Example projects?
-* foo
-
 ## Graduation Requirements
 
 ##### *Popular Culture: Awareness and Criticism*
@@ -77,9 +74,3 @@ interested in art may paint a mural somewhere in the community;
 a student interested in cooking may create a community cookbook 
 or cook at a homeless shelter; a student interested in technology 
 may provide computer help to adults who may be less computer-literate. 
-
-
-
-
-WEB OF KNOWLEDGE
-Structure of the day?

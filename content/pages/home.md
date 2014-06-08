@@ -4,7 +4,7 @@ URL:
 slug: about
 save_as: index.html
 
-Thank you for visiting The Institute for Lifelong Learners (ILL)! 
+Thank you for visiting The Institute for Lifelong Learners! 
 The Institute of Lifelong Learning (ILL) is a project-based high school 
 which emphasizes personal identity development, a student-driven curriculum,
 and independence of its students. 
