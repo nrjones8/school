@@ -6,8 +6,8 @@ Slug: curriculum
 Author: Nick Jones
 Summary: Overview of curriculum
 
-At [HS], the curriculum *student*-driven and encourages students to explore their
-interests in depth. The curriculum at [HS] is broken down into three types
+At ILL, the curriculum is *student*-driven and encourages students to explore their
+interests in depth. The curriculum at ILL is broken down into three types
 of classes: core classes, seminars, and projects. 
 There are only four graduation requirements, which are discussed below. Outside
 of these requirements, students are expected to take either 1-3 classes and a project,
